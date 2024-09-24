@@ -1,4 +1,7 @@
-## Hi there 👋
+# Socials / Contact
+### 🔗 [LinkedIn](https://www.linkedin.com/in/rileyeaton)
+### 📩 [Email me!](mailto:ryeaton@student.ubc.ca)
+
 
 <!--
 **rileyeaton-ubc/rileyeaton-ubc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
