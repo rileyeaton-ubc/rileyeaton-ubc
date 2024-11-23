@@ -2,8 +2,8 @@
 
 🎓 Currently persuing a **Master of Science** in Computer Science at _The University of British Columbia_
 
-- Working on novel applications of DICOM data pipelines for machine learning
-- Applications of machine learning in medical imaging
+- Working on novel applications of DICOM data pipelines for digital radiography
+- Applying machine learning techniques in medical imaging
 - Research and development in partnership with BC Cancer
 
 💲Interested in systems programming (C, C++, etc.)
@@ -12,10 +12,11 @@
 - For low-level system design and networking
 - Major interest in applying my skills to the field of aerospace and rocketry 🚀
 
-💻 Previous experience in web application design
+💻 Previous industry experience in web application design
 
 - Mostly backend, developing REST APIs
-- Large use of JavaScript, namely ES6
+- Heavy use of JavaScript, namely ES6
+- Emphasis on strict software engineering practices
 
 # ➕ Socials / Contact
 
