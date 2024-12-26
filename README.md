@@ -18,9 +18,9 @@
 - Heavy use of JavaScript, namely ES6
 - Emphasis on strict software engineering practices
 
-# ➕ More Info / Contact
+# ➕ More Info & Contact
 
-### 📃 [My Resume](https://github.com/rileyeaton-ubc/rileyeaton-general-resume/blob/249600a59cc4300b3e5010ca7def6ace7ebfddca/RileyEaton_General_Resume_2024-12.pdf)
+### 📃 [My Resume](https://github.com/rileyeaton-ubc/rileyeaton-general-resume/blob/main/RileyEaton_General_Resume.pdf)
 
 ### 🔗 [LinkedIn](https://www.linkedin.com/in/rileyeaton)
 
