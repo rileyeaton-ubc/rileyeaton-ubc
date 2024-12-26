@@ -18,15 +18,18 @@
 - Heavy use of JavaScript, namely ES6
 - Emphasis on strict software engineering practices
 
-# ➕ Socials / Contact
+# ➕ More Info / Contact
 
-#### 🔗 [LinkedIn](https://www.linkedin.com/in/rileyeaton)
+### 📃 [My Resume](https://github.com/rileyeaton-ubc/rileyeaton-general-resume/blob/249600a59cc4300b3e5010ca7def6ace7ebfddca/RileyEaton_General_Resume_2024-12.pdf)
 
-#### 📩 [Email me!](mailto:ryeaton@student.ubc.ca)
+### 🔗 [LinkedIn](https://www.linkedin.com/in/rileyeaton)
 
-# ⭐ Current Favourite Projects 
+### 📩 [Email me!](mailto:ryeaton@student.ubc.ca)
+
+# ⭐ Current Favourite Projects
 
 ### [IntelliShell](https://github.com/rileyeaton-ubc/intellishell-ai-hackathon)
+
 - Won third place in UBC's **AI for Social Good** Hackathon 🥉
 - Interactive shell built for those learning (or like many of us, need help remembering) UNIX commands
 - Uses generative AI to explain any errors, and users can prompt within the shell in natural language
