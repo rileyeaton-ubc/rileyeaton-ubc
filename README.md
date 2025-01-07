@@ -14,9 +14,9 @@
 
 💻 Previous industry experience in web application design
 
+- Emphasis on strict software engineering practices, including agile development
 - Mainly backend, developing REST APIs
 - Heavy use of JavaScript, namely ES6
-- Emphasis on strict software engineering practices
 
 # ➕ More Info & Contact
 
