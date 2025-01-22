@@ -20,7 +20,7 @@
 
 # ➕ More Info & Contact
 
-### 📃 [My Resume](https://github.com/rileyeaton-ubc/rileyeaton-general-resume/blob/main/RileyEaton_General_Resume.pdf)
+### 📃 [My Resume](https://github.com/rileyeaton-ubc/rileyeaton-general-resume/blob/main/Riley_Eaton_general_resume.pdf)
 
 ### 🔗 [LinkedIn](https://www.linkedin.com/in/rileyeaton)
 
