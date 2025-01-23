@@ -3,7 +3,7 @@
 🎓 Currently pursuing a **Master of Science** in Computer Science at _The University of British Columbia_
 
 - Working on novel applications of DICOM data pipelines for digital radiography
-- Applying machine learning techniques in medical imaging
+- Applying machine learning techniques in medical imaging _(Mammography, CT, etc.)_ 🫁
 - Research and development in partnership with BC Cancer
 
 💻 Previous industry experience in web application development
