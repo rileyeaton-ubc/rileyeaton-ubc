@@ -3,7 +3,7 @@
 🎓 Currently pursuing a **Master of Science** in Computer Science at _The University of British Columbia_
 
 - Working on novel applications of DICOM data pipelines for digital radiography
-- Applying machine learning techniques in medical imaging
+- Applying machine learning techniques in medical imaging _(Mammography, CT, etc.)_ 🫁
 - Research and development in partnership with BC Cancer
 
 💻 Previous industry experience in web application development
@@ -33,3 +33,9 @@
 - Won third place in UBC's **AI for Social Good** Hackathon 🥉
 - Interactive shell built for those learning (or like many of us, need help remembering) UNIX commands
 - Uses generative AI to explain any errors, and users can prompt within the shell in natural language
+
+### [SkySage](https://github.com/rileyeaton-ubc/SkySage)
+
+- Web application to provide current weather and forecast trends for any location using LLMs 🌦️
+- Final project for UBC SWE course, where our team of four practiced an agile development cycle
+- Achieved a **99% final grade** for the project
