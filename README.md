@@ -30,12 +30,12 @@
 
 ### [IntelliShell](https://github.com/rileyeaton-ubc/intellishell-ai-hackathon)
 
-- Won third place in UBC's **AI for Social Good** Hackathon 🥉
-- Interactive shell built for those learning (or like many of us, need help remembering) UNIX commands
-- Uses generative AI to explain any errors, and users can prompt within the shell in natural language
+- **Won 3<sup>rd</sup> place** in UBC's AI for Social Good Hackathon 🥉
+- Interactive shell built for those learning (or like many of us, need help remembering) Unix commands
+- Uses generative AI to explain errors, suggest fixes, and answer any prompts from the user directly within the shell
 
 ### [SkySage](https://github.com/rileyeaton-ubc/SkySage)
 
 - Web application to provide current weather and forecast trends for any location using LLMs 🌦️
 - Final project for UBC SWE course, where our team of four practiced an agile development cycle
-- Achieved a **99% final grade** for the project
+- The project earned a **final grade of 99%**
