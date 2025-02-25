@@ -6,11 +6,11 @@
 - Applying machine learning techniques in medical imaging _(Mammography, CT, etc.)_ 🫁
 - Research and development in partnership with BC Cancer
 
-💻 Previous industry experience in web application development
+💻 Previous industry experience in software development
 
-- Emphasis on strict software engineering practices, including agile development
-- Mainly backend, developing REST APIs
-- Heavy use of JavaScript, namely ES6
+- Emphasis on strict software engineering practices (agile and TDD, requirements engineering, design patterns)
+- Developing backend web appplications, with focus on REST APIs and database management systems
+- See [📄 my resume](https://github.com/rileyeaton-ubc/rileyeaton-resume/blob/main/Riley_Eaton_resume.pdf) for more details! 
 
 🧠 Interested in low-level systems programming (using C, C++, etc.)
 
