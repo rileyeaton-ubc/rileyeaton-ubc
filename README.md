@@ -9,7 +9,7 @@
 💻 Previous industry experience in software development
 
 - Emphasis on strict software engineering practices (agile and TDD, requirements engineering, design patterns)
-- Developing backend web appplications, with focus on REST APIs and database management systems
+- Developing backend web applications, with focus on REST APIs and database management systems
 - See [my resume](https://github.com/rileyeaton-ubc/rileyeaton-resume/blob/main/Riley_Eaton_resume.pdf) for more details❗
 
 🧠 Interested in low-level systems programming (using C, C++, etc.)
@@ -26,7 +26,7 @@
 
 ### 📩 [Email me!](mailto:ryeaton@student.ubc.ca)
 
-# ⭐ Current Favourite Projects
+# ⭐ Recent Favourite Projects
 
 ### [IntelliShell](https://github.com/rileyeaton-ubc/intellishell-ai-hackathon)
 
