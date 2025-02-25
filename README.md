@@ -6,7 +6,7 @@
 - Applying machine learning techniques in medical imaging _(Mammography, CT, etc.)_ 🫁
 - Research and development in partnership with BC Cancer
 
-💻 Previous industry experience in software development
+💻 Previous software development experience at **IBM**
 
 - Emphasis on strict software engineering practices (agile and TDD, requirements engineering, design patterns)
 - Developing backend web applications, with focus on REST APIs and database management systems
