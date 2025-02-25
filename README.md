@@ -18,7 +18,7 @@
 - Domains such as data processing, real-time systems, and networking
 - Major interest in applying my skills to the field of aerospace 🚀
 
-# ➕ More Info & Contact
+# ➕ Resume & Contact
 
 ### 📃 [My Resume](https://github.com/rileyeaton-ubc/rileyeaton-resume/blob/main/Riley_Eaton_resume.pdf)
 
