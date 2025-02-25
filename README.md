@@ -12,7 +12,7 @@
 - Developing backend web applications, with focus on REST APIs and database management systems
 - See [my resume](https://github.com/rileyeaton-ubc/rileyeaton-resume/blob/main/Riley_Eaton_resume.pdf) for more details❗
 
-🧠 Interested in low-level systems programming (using C, C++, etc.)
+🧠 Interested in low-level systems programming (C, C++, MATLAB, etc.)
 
 - Embedded development for control systems
 - Domains such as data processing, real-time systems, and networking
