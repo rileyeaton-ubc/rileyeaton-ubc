@@ -10,7 +10,7 @@
 
 - Emphasis on strict software engineering practices (agile and TDD, requirements engineering, design patterns)
 - Developing backend web appplications, with focus on REST APIs and database management systems
-- See [📄 my resume](https://github.com/rileyeaton-ubc/rileyeaton-resume/blob/main/Riley_Eaton_resume.pdf) for more details! 
+- See [my resume](https://github.com/rileyeaton-ubc/rileyeaton-resume/blob/main/Riley_Eaton_resume.pdf) for more details❗
 
 🧠 Interested in low-level systems programming (using C, C++, etc.)
 
