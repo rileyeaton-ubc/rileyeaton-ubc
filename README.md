@@ -16,7 +16,7 @@
 
 - Embedded development for control systems
 - Domains such as data processing, real-time systems, and networking
-- Major interest in applying my skills to the field of aerospace and rocketry 🚀
+- Major interest in applying my skills to the field of aerospace 🚀
 
 # ➕ More Info & Contact
 
