@@ -12,7 +12,7 @@
 - Mainly backend, developing REST APIs
 - Heavy use of JavaScript, namely ES6
 
-💲Interested in low-level systems programming (using C, C++, etc.)
+🧠 Interested in low-level systems programming (using C, C++, etc.)
 
 - Embedded development for control systems
 - Domains such as data processing, real-time systems, and networking
