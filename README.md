@@ -28,6 +28,12 @@
 
 # ⭐ Recent Favourite Projects
 
+### [Jersey Number Recognition](https://github.com/rileyeaton-ubc/COSC519-Jersey-Number-Recognition)
+
+- Final project UBC Deep Learning course, challenging teams in the class to top the EvalAI leaderboard
+- The goal was to improve the existing published pipelines for the SoccerNet Jersey Number Recognition Challenge (2023)
+- Our team **achieved the highest EvalAI challenge accuracy** of 86.04%, resulting in the top grade in the class.
+
 ### [IntelliShell](https://github.com/rileyeaton-ubc/intellishell-ai-hackathon)
 
 - **Won 3<sup>rd</sup> place** in UBC's AI for Social Good Hackathon 🥉
