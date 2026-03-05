@@ -30,7 +30,7 @@
 
 ### [Jersey Number Recognition](https://github.com/rileyeaton-ubc/COSC519-Jersey-Number-Recognition) (2025)
 
-- Final project UBC Deep Learning course, challenging teams in the class to top the EvalAI leaderboard
+- Final project for UBC's Deep Learning course, challenging teams in the class to top the EvalAI leaderboard
 - The goal was to improve the existing published pipelines for the SoccerNet Jersey Number Recognition Challenge (2023)
 - Our team **achieved the highest EvalAI challenge accuracy** of 86.04%, resulting in the top grade in the class.
 
