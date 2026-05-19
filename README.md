@@ -1,9 +1,10 @@
 # ❓About Me
 
-🎓 Currently pursuing a **Master of Science** in Computer Science at _The University of British Columbia_
+Currently working as a **Research Fellow** at BC Cancer to develop guidance on the clinical implementation of AI systems in cancer screening
 
-- Working on novel applications of DICOM data pipelines for digital radiography
-- Applying machine learning techniques in medical imaging _(Mammography, CT, etc.)_ 🫁
+🎓 Recently completed a **Master of Science** in Computer Science at _The University of British Columbia_
+
+- Worked on novel applications of DICOM data pipelines for machine learning dataset curation.
 - Research and development in partnership with BC Cancer
 
 💻 Previous software development experience at **IBM**
